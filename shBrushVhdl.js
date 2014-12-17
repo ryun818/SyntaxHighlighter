@@ -1,7 +1,7 @@
  /**
   * shBrushVhdl.js
   *
-  * http://peej.github.com/phpdoctor/examples/geshi/source/geshi/vhdl.php.html
+  * https://github.com/ryun818/SyntaxHighlighterPlugin/blob/master/shBrushVhdl.js
   *
   * @version
   *   0.7.21 (Dec 12 2014)
